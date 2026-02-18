@@ -7,7 +7,7 @@ UDR:SetScript("OnEvent", function()
     if event == "ADDON_LOADED" and arg1 == "UnDressingRoom" then
         -- Default to true if the variable doesn't exist yet
         if UDR_Config == nil then UDR_Config = true end
-        UDR_Checkbox:SetChecked(UDR_Config)
+        UDR_AutoUndressCheckbox:SetChecked(UDR_Config)
     end
 end)
 
