@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: UnDressingRoom
+## Author: DigidragonZX
+## Version: 0.0.1
+## SavedVariables: UDR_Config
+
+UnDressingRoom.lua
